@@ -1,0 +1,1 @@
+Analytic project which investigated the location of children with Attention Deficit Hyper Activity (ADHD) within the United States and whether there was a consentration of diagnosed children within a particular state or region.
