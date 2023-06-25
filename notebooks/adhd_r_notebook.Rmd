@@ -10,7 +10,7 @@ source("./src/packages.r", echo = TRUE)
 ```
 
 ```{r, main_dataframes}
-# Create Main Dataframmes
+# Create Main Dataframes
 source("./src/data/create_df_main.r", echo = TRUE)
 ```
 
