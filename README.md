@@ -1,6 +1,6 @@
 ## Project Description
 
-This data analytic project investigated the location of children with Attention Deficit Hyper Activity (ADHD) within the United States and whether there was a consentration of diagnosed children within a particular state or region.
+This data analytic project investigated the location of children with Attention Deficit Hyper Activity (ADHD) within the United States and whether there was a concentration of diagnosed children within a particular state or region.
 
 ## Questions
 
