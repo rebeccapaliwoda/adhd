@@ -1,6 +1,6 @@
 ## Project Description
 
-This data analytic project investigated the location of children with Attention Deficit Hyper Activity (ADHD) within the United States and whether there was a concentration of diagnosed children within a particular state or region.
+This data analytic project investigated the location of children with Attention Deficit Hyper Activity (ADHD) within the United States and whether there was a consentration of diagnosed children within a particular state or region.
 
 ## Questions
 
@@ -22,10 +22,9 @@ Once in R, the data was separated into different data frames: one for total data
 
 The following map was created in R to display the population of children in the U.S. as reported by their parent/guardian through the 2021 NSCH.
 
-![]("\reports\figures\plot_us_children.jpg")
-
+![]("reports/figures/plot_us_children.jpg")
 Next a map was created to display the population of children diagnosed with ADHD as reported by their parent/guardian through the 2021 NSCH.
 
-![]("\reports\figures\plot_adhd_children.jpg")
+![](reports/figures/plot_adhd_children.jpg")
 
 When compared, the maps show a higher population of ADHD children in Louisiana, Mississippi, and South Carolina.
